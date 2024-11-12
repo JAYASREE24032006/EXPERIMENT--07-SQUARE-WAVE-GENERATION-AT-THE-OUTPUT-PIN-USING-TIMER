@@ -228,16 +228,28 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![image](https://github.com/user-attachments/assets/160b6e83-045f-46e3-9377-e4b98168c538)
 
 TON = 2ms
+
+
 TOFF = 2ms
+
+
 TOTAL TIME = 4ms
+
+
 FREQUENCY = 1/(TOTAL TIME) = 1/4 = 250Hz
 
 ### FOR PULSE AT 700
 ![image](https://github.com/user-attachments/assets/836907d1-0080-4d86-869c-87e3f3cd7e0b)
 
 TON = 3ms
+
+
 TOFF= 1ms
+
+
 TOTAL TIME = 4ms
+
+
 FREQUENCY = 1/(TOTAL TIME) = 1/4 = 250Hz
 
 
@@ -245,8 +257,14 @@ FREQUENCY = 1/(TOTAL TIME) = 1/4 = 250Hz
 ![image](https://github.com/user-attachments/assets/b181734c-c0ad-4f69-8299-11c16fdb0391)
 
 TON = 3.5ms
+
+
 TOFF= 0.5ms
+
+
 TOTAL TIME = 4ms
+
+
 FREQUENCY = 1/(TOTAL TIME) = 1/4 = 250Hz
 
 
